@@ -1,0 +1,95 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: IT Support Technician
+# your company information
+company:
+  name: Franchise Management Inc. 
+  url: "https://fmigroup.ca/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a dedicated **IT Support Technician** with a passion for troubleshooting and resolving technical issues. I provide comprehensive technical support to end-users, manage system configurations, and ensure smooth IT operations. I enjoy helping users overcome technology challenges and continuously expanding my knowledge in emerging technologies and best practices.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "fozeuorlande@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/aorlande"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/aorlande"
+
+- name: credly
+  icon: "fa-solid fa-certificate"
+  url: "https://www.credly.com/users/axelle-orlande-fozeu-yeumguem"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: "CCNA: Enterprise Networking, Security, and Automation"
+  url: "https://www.credly.com/badges/27871e15-945c-4e42-8cc2-4ef2b1fc9db4"
+  badge: "https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png"
+
+- type: certification
+  name: 2024 Red Hat Academy - Program Learner
+  url: "https://www.credly.com/badges/2b2ad940-d6fb-4a24-8125-3419709bcab3"
+  badge: "https://images.credly.com/size/340x340/images/59248cc0-2be2-432c-8268-8cded324ec33/image.png"
+
+- type: certification
+  name: 2025 Red Hat Academy - Program Learner
+  url: "https://www.credly.com/badges/1318b9c9-1265-48ee-8443-ecf492935bec"
+  badge: "https://images.credly.com/size/340x340/images/cdde1687-1727-4b3c-97ca-89297dfb3b9c/blob"
+
+- type: certification
+  name: AWS Academy Graduate - AWS Academy Cloud Foundations
+  url: "https://www.credly.com/badges/af6fdbd8-c183-4b7b-a925-b45dc4621b6c"
+  badge: "https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"
+
+- type: certification
+  name: Introduction to Cybersecurity
+  url: "https://www.credly.com/badges/97cada0e-019c-46b8-bf1d-7a8cb10fd555"
+  badge: "https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"
+
+- type: certification
+  name: Cyber Threat Management
+  url: "https://www.credly.com/badges/4d8af7ea-1804-4868-84f7-11c38c991573"
+  badge: "https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png"
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 85
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 85
+  color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

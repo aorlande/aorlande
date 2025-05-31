@@ -1,0 +1,69 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# buttons:
+# - name: All
+#   filter: "all"
+# - name: Web Development
+#   filter: "web"
+# - name: Data Science
+#   filter: "data"
+# - name: Mobile Apps
+#   filter: "mobile"
+# - name: UI/UX Design
+#   filter: "design"
+# - name: Personal
+#   filter: "personal"
+# - name: switches
+#   filter: "switches"
+
+
+projects:
+- name: Linux Distro Comparison
+  logo: images/projects/kubernetes.png
+  role: Researcher
+  timeline: "March 2025 - April 2025"
+  # repo: https://github.com/kubernetes/kubernetes
+  # url: ""
+  summary: Researched, installed, and presented a comparative analysis of Elementary OS versus RHEL/Fedora, highlighting differences in usability, system architecture, and target audiences.
+  tags: [Linux, Elementary OS, RHEL, Fedora, Comparative Analysis, System Architecture]
+- name: Windows Server Infrastructure Deployment
+  logo: images/projects/kubernetes.png
+  role: Builder
+  timeline: "November 2024 - December 2024"
+  # repo: https://github.com/kubernetes/kubernetes
+  # url: ""
+  summary: Designed and deployed a multi-VM Windows Server 2022 infrastructure in vSphere, including domain controllers, a member server, and Active Directory services, following enterprise configuration and security standards.
+  tags: [vSphere, Windows Server 2022, Active Directory, Domain Controllers, Virtualization, Enterprise Security]
+- name: Scalable Business Network Infrastructure
+  logo: images/projects/kubernetes.png
+  role: Builder
+  timeline: "March 2025 - April 2025"
+  # repo: https://github.com/kubernetes/kubernetes
+  # url: ""
+  summary: Engineered and documented a scalable, secure network infrastructure for a medium-sized business.
+  tags: [OSPF routing, DHCP, DNS, VLANs, Hyper-V virtualization, Active Directory, port security]
+- name: Cisco ASA Firewall Implementation with Windows Integration
+  logo: images/projects/kubernetes.png
+  role: Builder
+  timeline: "February 2025 - March 2025"
+  # repo: https://github.com/kubernetes/kubernetes
+  # url: ""
+  summary: Implemented Cisco ASA firewall as network edge device for secure traffic control and NAT, integrated with Windows Server infrastructure using Group Policy for user-based access, auditing, and system hardening.
+  tags: [OSPF routing, DHCP, DNS, VLANs, Hyper-V virtualization, Active Directory, port security]
+- name: Secure Enterprise Network Design
+  logo: images/projects/kubernetes.png
+  role: Builder
+  timeline: "January 2025 - February 2025"
+  # repo: https://github.com/kubernetes/kubernetes
+  # url: ""
+  summary: Designed and configured a secure enterprise network in Packet Tracer.
+  tags: [switches, VLANs, OSPF, NAT, DHCP, Windows Server 2016+, Hyper-V VMs, remote management, backup services]

@@ -1,0 +1,494 @@
+{
+  "basics": {
+    "name": "Axelle Orlande Fozeu Yeumguem",
+    "headline": "Information Technology: Network Administration Professional",
+    "email": "fozeuorlande@gmail.com",
+    "phone": "+1 (506) 425-5706 ",
+    "location": " Woodstock, New Brunswick, Canada",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [],
+    "picture": {
+      "url": "",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p style=\"text-align: justify\">As a dedicated Network Administration student at NBCC, I am passionate about applying my technical skills in network management, data analysis, and problem-solving to contribute to FMI Group’s mission of innovation and excellence. With a strong commitment to inclusivity and reliability, I aim to leverage my expertise through the internship program, gaining hands-on experience while supporting the development of efficient and accessible solutions that align with the company’s values of diversity and forward-thinking.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": [
+        {
+          "id": "m1htxj9rme1ifwir4xh29plf",
+          "visible": true,
+          "name": "CCNA: Enterprise Networking, Security, and Automation ",
+          "issuer": "Cisco",
+          "date": "January 2025",
+          "summary": "<p></p>",
+          "url": {
+            "label": "Check Link",
+            "href": "https://www.credly.com/badges/27871e15-945c-4e42-8cc2-4ef2b1fc9db4"
+          }
+        },
+        {
+          "id": "bn3si00qglzu7xz2u0p3m2sa",
+          "visible": true,
+          "name": "2024 Red Hat Academy - Program Learner",
+          "issuer": "Red Hat",
+          "date": "December 2024",
+          "summary": "<p></p>",
+          "url": {
+            "label": "Check Link",
+            "href": "https://www.credly.com/badges/2b2ad940-d6fb-4a24-8125-3419709bcab3"
+          }
+        },
+        {
+          "id": "bldknmnczj85lnj1y1mirl1r",
+          "visible": true,
+          "name": "AWS Academy Graduate - AWS Academy Cloud Foundations ",
+          "issuer": "Amazon Web Services Training and Certification",
+          "date": "November 2024",
+          "summary": "<p></p>",
+          "url": {
+            "label": "Check Link",
+            "href": "https://www.credly.com/badges/af6fdbd8-c183-4b7b-a925-b45dc4621b6c"
+          }
+        },
+        {
+          "id": "jrewm7i8cfvh0ftw0s3vk7lc",
+          "visible": true,
+          "name": "CCNA: Switching, Routing, and Wireless Essentials",
+          "issuer": "Cisco",
+          "date": "September 2024",
+          "summary": "<p></p>",
+          "url": {
+            "label": "Check Link",
+            "href": "https://www.credly.com/badges/f4785bb6-3253-409f-87cc-ec4131857292"
+          }
+        },
+        {
+          "id": "olmmxjx5h2uq2819sxd1f0bf",
+          "visible": true,
+          "name": "First Aid & CPR/AED",
+          "issuer": "Red Cross Canada",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "education": {
+      "name": "Educations",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "ull6a8qjogey51y1mjrxdl1e",
+          "visible": true,
+          "institution": "New Brunswick Community College",
+          "studyType": "Diploma",
+          "area": "Network Administration",
+          "score": "3.7 / 4",
+          "date": "September 2023 - Now",
+          "summary": "<p><strong>Relevant Coursework</strong>: Network Security, Data Center Virtualization, Database Management, Cloud Technologies, Technical Communication.</p>",
+          "url": {
+            "label": "",
+            "href": "https://nbcc.ca/"
+          }
+        },
+        {
+          "id": "flw8whivduo0rd1mwk1pmhhc",
+          "visible": true,
+          "institution": "Institute of Technology Fotso-Victor",
+          "studyType": "Bachelor's Degree",
+          "area": " Network and Internet Design and Development Specialist",
+          "score": "3.5  / 4",
+          "date": "Septembre 2022 - Juillet 2023",
+          "summary": "<p style=\"text-align: justify\">Program focused on network design and development, IT project management, and advanced methodologies for optimizing system performance and ensuring secure, scalable infrastructure.</p>",
+          "url": {
+            "label": "",
+            "href": "https://iutfv.univ-dschang.org/"
+          }
+        },
+        {
+          "id": "pbxzwvex5roh0xkggea5eeir",
+          "visible": true,
+          "institution": "Institute of Technology Fotso-Victor",
+          "studyType": "Diploma",
+          "area": "Software Engineering",
+          "score": "3.4 / 4",
+          "date": "November 2020 - July 2022",
+          "summary": "<p style=\"text-align: justify\">Training focused on the fundamentals of computer science, application development, and system administration, with an emphasis on designing, managing, and optimizing IT infrastructures.</p>",
+          "url": {
+            "label": "",
+            "href": "https://iutfv.univ-dschang.org/"
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experiences",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "ap8svwq4hg1gsnqc544qmyxk",
+          "visible": true,
+          "company": " JFET Company",
+          "position": "IT Support Technician",
+          "location": "Yaoundé, Cameroon",
+          "date": "January 2022 — July 2023",
+          "summary": "<ul><li><p>Proactively identified and resolved network issues, increasing system uptime by 90%.</p></li><li><p>Implemented network performance optimization measures, resulting in an estimated 40% increase in efficiency for key processes.</p></li><li><p>Contributed to the architectural design of scalable network infrastructures, ensuring accessibility for all users.</p></li><li><p>Collaborated with a diverse team of stakeholders to gather requirements and translate them into technical specifications for a new network infrastructure project.</p></li><li><p>Provided efficient IT support to a diverse customer base.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "jj7w0sx2us250bzc3ire3kno",
+          "visible": true,
+          "company": "MTN Cameroon",
+          "position": "Software engineer intern",
+          "location": "Yaoundé, Cameroon",
+          "date": "April 2021 — August 2021  ",
+          "summary": "<ul><li><p>Developed and maintained high-quality software solutions using Java, PHP, HTML, and Python, ensuring optimal performance and adherence to quality standards.</p></li><li><p>Collaborated with cross-functional teams to analyze requirements and implement efficient, scalable code, integrating accessibility considerations into the design process.</p></li><li><p>Designed and optimized MySQL database structures, improving query performance for critical reports by an estimated 60%.</p></li><li><p>Developed and maintained database schemas, stored procedures, and triggers, ensuring data integrity, security, and reliability.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://mtn.cm"
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 5,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "wk2m7gid2k8pu72ct6r0da21",
+          "visible": true,
+          "name": "English",
+          "description": "Fluent",
+          "level": 0
+        },
+        {
+          "id": "ezx6812fqifdhikthvk34vwc",
+          "visible": true,
+          "name": "French",
+          "description": "Fluent",
+          "level": 0
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profil",
+      "columns": 3,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "p6ngzt5q0uw9lv23dxky0w0k",
+          "visible": true,
+          "network": "LinkedIn ",
+          "username": "aorlande",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "http://www.linkedin.com/in/aorlande"
+          }
+        },
+        {
+          "id": "ql8ig1qyean27dmr45xb0267",
+          "visible": true,
+          "network": "Credly",
+          "username": "aorlande",
+          "icon": "credly",
+          "url": {
+            "label": "",
+            "href": "https://www.credly.com/users/axelle-orlande-fozeu-yeumguem"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projets",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "projects",
+      "items": [
+        {
+          "id": "fjuy3edto6u1mqi0seb1bz48",
+          "visible": true,
+          "name": "Application de reconnaissance d'objets",
+          "description": "",
+          "date": "2024 - Présent",
+          "summary": "<p>Application de reconnaissance d'objets utilisant des réseaux de neurones convolutifs pour identifier des objets dans des images.</p>",
+          "keywords": [
+            "Gradio",
+            "TensorFlow",
+            "OpenCV",
+            "Python"
+          ],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "bdqm55vjtvunke3lru3p9qbp",
+          "visible": true,
+          "name": "Site Web d'un restaurant",
+          "description": "",
+          "date": "2022 - Présent",
+          "summary": "<p>Site web dynamique pour une entreprise de restauration, avec un design moderne et des fonctionnalités interactives.</p>",
+          "keywords": [
+            "WordPress",
+            "PHP",
+            "HTML/CSS"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.karokabbq.com"
+          }
+        },
+        {
+          "id": "jiy9h5s48w94o05kbb8sjcr3",
+          "visible": true,
+          "name": "Site Web personnel",
+          "description": "",
+          "date": "",
+          "summary": "<p>Site web présentant mon CV, mes projets et mes compétences, avec un design épuré et une navigation intuitive.</p>",
+          "keywords": [
+            "Markdown",
+            "Quarto",
+            "GitHub Actions",
+            "GitHub"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.bpiaple.github.io"
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 3,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "k8jassoplzyoretwur90zh02",
+          "visible": true,
+          "name": "Networks & Security",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "Home office",
+            "Business",
+            "Enterprise Networks",
+            "Network Solutions",
+            "and  Security",
+            "Network Monitoring Tools (Wireshark)"
+          ]
+        },
+        {
+          "id": "azdxfgnjh5ifnbq9ub242k4p",
+          "visible": true,
+          "name": "Soft Skills",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "Interpersonal Communications",
+            "Technical Writing",
+            "Work Safely",
+            "and Community  Service"
+          ]
+        },
+        {
+          "id": "mifr9jv71sngyhsfc81ybeqm",
+          "visible": true,
+          "name": "Cloud",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "VMware vSphere",
+            "AWS foundation",
+            "virtualization"
+          ]
+        },
+        {
+          "id": "k70i7bkah45sq6glhbsql7z4",
+          "visible": true,
+          "name": "Microsoft",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "Windows",
+            "Windows Server",
+            "Office Suite"
+          ]
+        },
+        {
+          "id": "oe80oq29mf9wngtksvpf2dgw",
+          "visible": true,
+          "name": "Command Line",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "Windows Command Line",
+            "PowerShell"
+          ]
+        },
+        {
+          "id": "jvo3cf7lw4vw8b3hgyfu3vod",
+          "visible": false,
+          "name": " Leadership",
+          "description": " Ability to manage multiple projects simultaneously and meet tight deadlines,  while maintaining the highest standards of quality.",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "f1fna9pwg6oijzhszmiwr9mc",
+          "visible": false,
+          "name": "Communication",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "Great Communication skills",
+            "strong  analytical",
+            "and decision-making skills"
+          ]
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "bronzor",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "letter",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#0284c7"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}

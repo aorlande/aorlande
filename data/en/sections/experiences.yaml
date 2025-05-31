@@ -1,0 +1,76 @@
+section:
+  name: Experiences # Titre de la section (par défaut: "" )
+  id: experiences # url id/slug of section *Required*
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+
+# Your experiences
+experiences:
+- company:
+    name: Franchise Management Inc.
+    url: https://fmigroup.ca/
+    location: Woodstock, Canada
+    logo: fmilogo.png
+    # darkLogo: https://fmigroup.ca/wp-content/uploads/2022/09/logo.svg #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: Franchise Management Inc. is a leading provider of franchise management solutions, offering comprehensive services to support franchise growth and success.
+  positions:
+    - designation: Billingual IT Support Technician
+      start: June 2025
+      end: Now
+      responsibilities:
+        - Provide advanced technical support to franchisees, resolving complex issues related to software applications and hardware devices.
+        - Lead the implementation of IT solutions to enhance operational efficiency and improve user experience.
+        - Conduct comprehensive training sessions for franchisees on software usage and best practices, ensuring effective adoption of new technologies.
+        - Monitor and maintain IT systems to ensure optimal performance and minimal downtime.
+
+    - designation: Billingual IT Support Technician Intern
+      start: April 2025
+      end: May 2025
+      responsibilities:
+        - Assist in providing technical support to franchisees, resolving basic issues related to software applications and hardware devices.
+        - Support the implementation of IT solutions under the supervision of senior technicians.
+        - Assist in conducting training sessions for franchisees on software usage and best practices.
+        - Learn and apply IT system monitoring and maintenance procedures.
+      
+- company:
+    name: JFET Company
+    url: "#"
+    location: Yaoundé, Cameroon
+    logo: /images/experiences/jfet.png
+    darkLogo: /images/experiences/jfet-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: JFET Company is a technology solutions provider focused on IT infrastructure and network optimization services.
+  positions:
+  - designation: IT Support Technician
+    start: January 2022
+    end: July 2023
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Proactively identified and resolved network issues, increasing system uptime by 90%.
+    - Implemented network performance optimization measures, resulting in an estimated 40% increase in efficiency for key processes.
+    - Contributed to the architectural design of scalable network infrastructures, ensuring accessibility for all users.
+    - Collaborated with a diverse team of stakeholders to gather requirements and translate them into technical specifications for a new network infrastructure project.
+    - Provided efficient IT support to a diverse customer base.
+
+- company:
+    name: MTN Cameroon
+    url: "https://mtn.cm"
+    location: Yaoundé, Cameroon
+    logo: mtnlogo.png
+    # darkLogo: mtnlogo.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: MTN Cameroon is a leading telecommunications company providing mobile network services and digital solutions across Cameroon.
+  positions:
+  - designation: Software Engineer Intern
+    start: April 2021
+    end: August 2021
+    responsibilities:
+    - Developed and maintained high-quality software solutions using Java, PHP, HTML, and Python, ensuring optimal performance and adherence to quality standards.
+    - Collaborated with cross-functional teams to analyze requirements and implement efficient, scalable code, integrating accessibility considerations into the design process.
+    - Designed and optimized MySQL database structures, improving query performance for critical reports by an estimated 60%.
+    - Developed and maintained database schemas, stored procedures, and triggers, ensuring data integrity, security,
