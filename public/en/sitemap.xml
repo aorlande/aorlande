@@ -105,13 +105,10 @@
     <priority>0.1</priority>
   </url><url>
     <loc>http://localhost:1313/categories/basic/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/basic/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <lastmod>2025-05-31T08:06:25+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <lastmod>2025-05-31T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -123,14 +120,17 @@
                 href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/multi-lingual/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <loc>http://localhost:1313/tags/network/</loc>
+    <lastmod>2025-05-31T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/introduction/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <loc>http://localhost:1313/network-basics/</loc>
+    <lastmod>2025-05-31T08:06:25+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/networking/</loc>
+    <lastmod>2025-05-31T08:06:25+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <lastmod>2025-05-31T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -143,7 +143,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <lastmod>2025-05-31T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -181,7 +181,11 @@
                 href="http://localhost:1313/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/network-basics/</loc>
+    <loc>http://localhost:1313/tags/basic/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/multi-lingual/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/net/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
   </url><url>

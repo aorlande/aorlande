@@ -1,4 +1,17 @@
-# Network Basics: Understanding the Foundation of Modern Connectivity
+---
+title: "Network Basics"
+date: 2025-05-31T08:06:25+06:00
+description: Introduction to Networking
+menu:
+  sidebar:
+    name: Network Basics
+    identifier: Network Basics
+    weight: 1
+tags: ["Network", "Networking"]
+categories: ["Basic"]
+---
+
+## Understanding Network Fundamentals
 
 Computer networks form the backbone of our digital world, enabling everything from simple file sharing to complex internet applications. This post explores fundamental network concepts that everyone working in tech should understand.
 
