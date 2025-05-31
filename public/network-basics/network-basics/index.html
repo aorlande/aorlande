@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <title>Notes</title>
+    <title></title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -13,7 +13,6 @@
 
 
 
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/notes/index.xml" title="Axelle Orlande Fozeu Yeumguem">
 
 
 
@@ -28,7 +27,10 @@
 <meta property="og:image" content="/">
 <meta property="og:url" content="http://localhost:1313/">
 
-     
+    
+<meta name="description" content="" />
+
+
 
     
 
@@ -51,7 +53,7 @@ document.documentElement.setAttribute('data-theme', theme)
     
   </head>
 
-  <body class="type-notes kind-section" data-bs-spy="scroll" data-bs-target="#TableOfContents" data-bs-offset="80">
+  <body class="type-network-basics kind-page" data-bs-spy="scroll" data-bs-target="#TableOfContents" data-bs-offset="80">
     <div class="container-fluid bg-secondary wrapper">
       
       
@@ -205,40 +207,6 @@ document.documentElement.setAttribute('data-theme', theme)
         
         
         
-          
-
-  
-
-<li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" href="#" id="languageSelector" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        
-            
-            <span class="fi fi-gb"></span>
-        
-        English
-    </a>
-    <div class="dropdown-menu" aria-labelledby="languageSelector">
-        
-        <a class="dropdown-item nav-link languages-item" href="/notes">
-            
-                
-                <span class="fi fi-gb"></span>
-            
-            English
-        </a>
-        
-        <a class="dropdown-item nav-link languages-item" href="/fr/notes">
-            
-                
-                <span class="fi fi-fr"></span>
-            
-            Français
-        </a>
-        
-    </div>
-    </li>
-
-        
         
           
 
@@ -283,11 +251,6 @@ document.documentElement.setAttribute('data-theme', theme)
 
       
       
-  
-  
-    
-  
-
   <section class="sidebar-section" id="sidebar-section">
     <div class="sidebar-holder">
       <div class="sidebar" id="sidebar">
@@ -296,9 +259,18 @@ document.documentElement.setAttribute('data-theme', theme)
         </form>
         <div class="sidebar-tree">
           <ul class="tree" id="tree">
-            <li id="list-heading"><a href="/notes" data-filter="all">Notes</a></li>
+            <li id="list-heading"><a href="/posts/" data-filter="all">Posts</a></li>
             <div class="subtree">
                 
+  
+  
+  
+  
+  
+    
+    <li><a class=" list-link" href="/introduction/" title="Introduction">Introduction</a></li>
+  
+
 
             </div>
           </ul>
@@ -311,48 +283,192 @@ document.documentElement.setAttribute('data-theme', theme)
       
       
 <section class="content-section" id="content-section">
-  <div class="content container-fluid" id="content">
-    <div class="container-fluid note-card-holder" id="note-card-holder">
+  <div class="content">
+    <div class="container p-0 read-area">
+      
+      <div class="hero-area col-sm-12" id="hero-area" style='background-image: url(/images/default-hero.jpg);'>
+      </div>
+
+      
+      <div class="page-content">
+        
+        <div class="author-profile ms-auto align-self-lg-center">
+          <img class="rounded-circle" src='/images/default-avatar_hu_af7c48c7ef93202f.png' alt="Author Image">
+          <h5 class="author-name">Axelle Orlande Fozeu Yeumguem</h5>
+          <p class="text-muted">Monday, January 1, 1</p>
+        </div>
+        
+
+        <div class="title">
+          <h1></h1>
+        </div>
+
+        
+
+        
+        <div class="post-content" id="post-content">
+          <h1 id="network-basics-understanding-the-foundation-of-modern-connectivity">Network Basics: Understanding the Foundation of Modern Connectivity</h1>
+<p>Computer networks form the backbone of our digital world, enabling everything from simple file sharing to complex internet applications. This post explores fundamental network concepts that everyone working in tech should understand.</p>
+<h2 id="what-is-a-network">What is a Network?</h2>
+<p>At its core, a computer network is a collection of devices connected to share resources and communicate. These devices—computers, servers, smartphones, IoT devices—exchange data using standardized protocols.</p>
+<h2 id="the-osi-model-networking-in-layers">The OSI Model: Networking in Layers</h2>
+<p>The Open Systems Interconnection (OSI) model divides network communication into seven distinct layers:</p>
+<ol>
+<li><strong>Physical Layer</strong>: The hardware components like cables, switches, and network interface cards.</li>
+<li><strong>Data Link Layer</strong>: Handles node-to-node data transfer and error detection.</li>
+<li><strong>Network Layer</strong>: Manages routing and forwarding of data packets between different networks.</li>
+<li><strong>Transport Layer</strong>: Ensures complete data transfer with error recovery and flow control.</li>
+<li><strong>Session Layer</strong>: Establishes, maintains, and terminates connections between applications.</li>
+<li><strong>Presentation Layer</strong>: Translates data between the application and network formats.</li>
+<li><strong>Application Layer</strong>: The interface between the network and user applications.</li>
+</ol>
+<h2 id="ip-addressing-the-internets-numbering-system">IP Addressing: The Internet&rsquo;s Numbering System</h2>
+<p>Every device on a network needs a unique identifier, which is where IP addresses come in:</p>
+<ul>
+<li><strong>IPv4</strong>: The traditional format (e.g., 192.168.1.1) with approximately 4.3 billion possible addresses.</li>
+<li><strong>IPv6</strong>: The newer standard (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334) with vastly more available addresses.</li>
+</ul>
+<h2 id="types-of-networks">Types of Networks</h2>
+<p>Networks vary widely in size and scope:</p>
+<ul>
+<li><strong>LAN (Local Area Network)</strong>: Covers a small area like a home, office, or campus.</li>
+<li><strong>WAN (Wide Area Network)</strong>: Spans larger geographical distances, often connecting multiple LANs.</li>
+<li><strong>MAN (Metropolitan Area Network)</strong>: Covers a city or large campus.</li>
+<li><strong>PAN (Personal Area Network)</strong>: Connects devices within a person&rsquo;s workspace.</li>
+</ul>
+<h2 id="common-networking-protocols">Common Networking Protocols</h2>
+<p>Protocols are standardized rules for network communication:</p>
+<ul>
+<li><strong>TCP/IP</strong>: The fundamental internet protocol suite.</li>
+<li><strong>HTTP/HTTPS</strong>: For web browsing and secure web communication.</li>
+<li><strong>FTP</strong>: For file transfers between computers.</li>
+<li><strong>SMTP, POP3, IMAP</strong>: For email services.</li>
+<li><strong>DNS</strong>: Translates domain names to IP addresses.</li>
+</ul>
+<h2 id="network-devices">Network Devices</h2>
+<p>Key hardware components that make networks function:</p>
+<ul>
+<li><strong>Routers</strong>: Direct data packets between networks.</li>
+<li><strong>Switches</strong>: Connect devices within a network and forward data to specific destinations.</li>
+<li><strong>Modems</strong>: Convert digital data to signals that can travel over specific transmission media.</li>
+<li><strong>Firewalls</strong>: Monitor and filter network traffic based on security rules.</li>
+</ul>
+<h2 id="network-topologies">Network Topologies</h2>
+<p>The physical and logical arrangement of network nodes:</p>
+<ul>
+<li><strong>Star</strong>: Devices connect to a central hub or switch.</li>
+<li><strong>Bus</strong>: All devices connect to a single backbone cable.</li>
+<li><strong>Ring</strong>: Devices connect in a circular pattern.</li>
+<li><strong>Mesh</strong>: Devices interconnect with multiple redundant links.</li>
+</ul>
+<h2 id="network-security-basics">Network Security Basics</h2>
+<p>Essential security concepts include:</p>
+<ul>
+<li><strong>Authentication</strong>: Verifying the identity of users and devices.</li>
+<li><strong>Authorization</strong>: Determining what authenticated users can access.</li>
+<li><strong>Encryption</strong>: Protecting data as it travels across networks.</li>
+<li><strong>VPN (Virtual Private Network)</strong>: Creating secure connections over public networks.</li>
+</ul>
+<h2 id="conclusion">Conclusion</h2>
+<p>Understanding these network fundamentals is crucial in today&rsquo;s interconnected world. Whether you&rsquo;re troubleshooting home Wi-Fi issues or designing enterprise systems, these concepts provide the foundation for deeper networking knowledge.</p>
+<p>By mastering these basics, you&rsquo;ll be better equipped to navigate the increasingly complex digital landscape we all rely on.</p>
+
+        </div>
+
+        
+        <div class="row ps-3 pe-3">
+        
+          <div class="col-md-6 share-buttons">
+          
+          </div>
+
+        
+        
+          
+            
+          
+          <div class="col-md-6 btn-improve-page">
+             
+               <a href="https://github.com/aorlande/aorlande.github.io/edit/main/content/Network%20Basics%5cnetwork-basics.md" title="Improve this page" target="_blank" rel="noopener">
+            
+                <i class="fas fa-code-branch"></i>
+                Improve this page
+              </a>
+          </div>
+        
+        </div>
+
+
+
+      
+      <hr />
+        
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+  
+
+
+<div class="row next-prev-navigator">
+  
+  
+</div>
+
+      <hr />
+
       
       
-        
-        
-        
+
       
-        
-        
-        
       
-    </div>
-    <div class="paginator">
-      
-    <ul class="pagination pagination-default">
-      <li class="page-item">
-        <a href="/notes/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
-      </li>
-      <li class="page-item">
-        <a href="/notes/" aria-label="Previous" class="page-link" role="button"><span aria-hidden="true">&laquo;</span></a>
-      </li>
-      <li class="page-item">
-        <a href="/notes/" aria-label="Page 1" class="page-link" role="button">1</a>
-      </li>
-      <li class="page-item active">
-        <a aria-current="page" aria-label="Page 2" class="page-link" role="button">2</a>
-      </li>
-      <li class="page-item disabled">
-        <a aria-disabled="true" aria-label="Next" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&raquo;</span></a>
-      </li>
-      <li class="page-item disabled">
-        <a aria-disabled="true" aria-label="Last" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&raquo;&raquo;</span></a>
-      </li>
-    </ul>
+
+      </div>
     </div>
   </div>
+  
+  <a id="scroll-to-top" class="btn" type="button" data-bs-toggle="tooltip" data-bs-placement="left" title="Scroll to top">
+    <i class="fas fa-chevron-circle-up"></i>
+  </a>
 </section>
 
 
       
-       
+      
+  <section class="toc-section" id="toc-section">
+    
+    <div class="toc-holder">
+      <h5 class="text-center ps-3">Table of Contents</h5>
+      <hr>
+      <div class="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#what-is-a-network">What is a Network?</a></li>
+    <li><a href="#the-osi-model-networking-in-layers">The OSI Model: Networking in Layers</a></li>
+    <li><a href="#ip-addressing-the-internets-numbering-system">IP Addressing: The Internet&rsquo;s Numbering System</a></li>
+    <li><a href="#types-of-networks">Types of Networks</a></li>
+    <li><a href="#common-networking-protocols">Common Networking Protocols</a></li>
+    <li><a href="#network-devices">Network Devices</a></li>
+    <li><a href="#network-topologies">Network Topologies</a></li>
+    <li><a href="#network-security-basics">Network Security Basics</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+  </ul>
+</nav>
+      </div>
+    </div>
+    
+  </section>
+
     </div>
 
     
@@ -442,7 +558,7 @@ document.documentElement.setAttribute('data-theme', theme)
                   
                 
                 <li class="nav-item">
-                  <a class="smooth-scroll" href="http://localhost:1313/#projects">Projects</a>
+                  <a class="smooth-scroll" href="http://localhost:1313/#education">Education</a>
                 </li>
               
               
@@ -451,7 +567,7 @@ document.documentElement.setAttribute('data-theme', theme)
                   
                 
                 <li class="nav-item">
-                  <a class="smooth-scroll" href="http://localhost:1313/#education">Education</a>
+                  <a class="smooth-scroll" href="http://localhost:1313/#projects">Projects</a>
                 </li>
               
               
